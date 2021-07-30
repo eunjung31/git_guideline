@@ -37,7 +37,10 @@ branch와 HEAD와 관련된 내용 정리
 |**git branch** -d branch 이름|해당 branch 삭제|
 |**git branch**|branch 리스트|
 
-
+ * 새로운 branch를 github로 push하는 방법 
+   : gitpush --set-upstream origin branch_이름
+   
+   
 ---
 
 
