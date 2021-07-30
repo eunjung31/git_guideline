@@ -53,7 +53,7 @@ some useful command lines for github users
  
    |명령어|설명|
 |------|---|
-|git revert 커밋번호|remote에 올라간 해당 커밋번호를 되돌림|
-|git revert A..B|여러 개의 커밋번호를 취소하기|
-|git reflog|코드 작성 정보; 작성자, 작성일시 등|
-|git reset 커밋번호|만약 git reset을 하고 난 후, 해당 커밋으로 다시 돌아가고 싶을 때|
+|**git revert** 커밋번호|remote에 올라간 해당 커밋번호를 되돌림|
+|**git revert** A..B|여러 개의 커밋번호를 취소하기|
+|**git reflog**|코드 작성 정보; 작성자, 작성일시 등|
+|**git reset** 커밋번호|만약 git reset을 하고 난 후, 해당 커밋으로 다시 돌아가고 싶을 때|
