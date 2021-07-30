@@ -30,7 +30,7 @@ some useful command lines for github users
 ---
  
  ## Git 실무지식
-  ### Local Repository와 Remote Repository의 내용이 다를 경우    
+  ### [Local Repository와 Remote Repository의 내용이 다를 경우]    
    1. git pull  => error 발생 ; local이 remote의 내용을 덮어쓰지 않게 하기 위함  
    2. 문제 해결 (CONFLICT 해결방법처럼)  
    3. git push  
@@ -42,14 +42,14 @@ some useful command lines for github users
 
 
 
-  ### 이 코드는 누가 작성했을까?  
+  ### [이 코드는 누가 작성했을까?]  
 |명령어|설명|
 |------|---|
 |**git blame**|코드 작성 정보; 작성자, 작성일시 등|
 |**git show** 커밋아이디|해당 커밋의 자세한 내용 제시|
 
 
- ### git revert   
+ ### [git revert]   
  
    |명령어|설명|
 |------|---|
